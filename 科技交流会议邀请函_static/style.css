@@ -1,0 +1,6 @@
+body { font-family: '宋体'; background: #f0f4f8; color: #333; text-align: center; margin:0; padding:0; }
+.cover { padding: 100px 20px; background: linear-gradient(135deg, #1e3a8a, #3b82f6); color: #fff; }
+button { padding: 10px 20px; font-size: 16px; margin: 20px; border:none; border-radius:8px; background:#2563eb; color:#fff; cursor:pointer; }
+.experts { display: flex; justify-content: center; gap: 20px; margin-top:20px;}
+.experts img { width: 150px; border-radius:8px; }
+h2 { margin-top: 40px; }
